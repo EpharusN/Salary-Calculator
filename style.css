@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+     }
+   
+   body{
+       background-color: aquamarine;
+       color: black;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       display: flex;
+       min-height: 100vh;
+   }
+   
+   h1,h2{
+       align-items: center;
+       margin: 0 20px;
+   }
+   
+   button{
+       margin-top: 20px;
+       height: 30px;
+       border-radius: 5px;
+       width: 70mx;
+   }
+   
